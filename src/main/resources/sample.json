@@ -1,0 +1,95 @@
+[
+    {
+    "country_name": {
+        "ar": "أذربيجان",
+        "bg": "Азербайджан",
+        "de": "Aserbaidschan",
+        "el": "Αζερμπαϊτζάν",
+        "en": "Azerbaijan",
+        "es": "Azerbaiyán",
+        "fr": "Azerbaïdjan",
+        "hu": "Azerbajdzsán",
+        "it": "Azerbaigian",
+        "pl": "Azerbejdżan",
+        "pt": null,
+        "ro": "Azerbaidjan",
+        "ru": "Азербайджан",
+        "sq": "Azerbaixhan",
+        "sr": "Azerbejdžan",
+        "tr": "Azerbaycan"
+    },
+    "country_code": "AZ",
+    "center": {
+        "longitude": 49.748558,
+        "latitude": 40.446373
+    },
+    "hotels": ["tuado_hotel", "badamdar_campus_hostel"],
+    "iata": null,
+    "id": 965866616,
+    "type": "Railway Station",
+    "name": {
+        "ar": null,
+        "bg": null,
+        "de": null,
+        "el": null,
+        "en": "Hyrdalan",
+        "es": null,
+        "fr": null,
+        "hu": null,
+        "it": null,
+        "pl": null,
+        "pt": null,
+        "ro": null,
+        "ru": "Хырдалан",
+        "sq": null,
+        "sr": null,
+        "tr": null
+    }
+}{
+    "country_name": {
+        "ar": "روسيا",
+        "bg": "Русия",
+        "de": "Russland",
+        "el": "Ρωσία",
+        "en": "Russia",
+        "es": "Rusia",
+        "fr": "Russie",
+        "hu": "Oroszország",
+        "it": "Russia",
+        "pl": "Rosja",
+        "pt": "Rússia",
+        "ro": "Rusia",
+        "ru": "Россия",
+        "sq": "Rusia",
+        "sr": "Rusija",
+        "tr": "Rusya"
+    },
+    "country_code": "RU",
+    "center": {
+        "longitude": 31.02602,
+        "latitude": 59.95813
+    },
+    "hotels": ["dragunsky_ruchey_holiday_park_", "hotel_overtime", "petrovskaya_hotel", "shlisselburg_guest_house", "otel_star_house", "atlantida_8", "1komkvartira", "apartments_in_shlisselburg", "malonevskij_kanal_16_a_apartments", "dragunskii_ruchei"],
+    "iata": null,
+    "id": 965867028,
+    "type": "Railway Station",
+    "name": {
+        "ar": null,
+        "bg": null,
+        "de": null,
+        "el": null,
+        "en": "Petrokrepost",
+        "es": null,
+        "fr": null,
+        "hu": null,
+        "it": null,
+        "pl": null,
+        "pt": null,
+        "ro": null,
+        "ru": "Петрокрепость",
+        "sq": null,
+        "sr": null,
+        "tr": null
+    }
+}
+]
